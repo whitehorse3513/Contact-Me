@@ -6,7 +6,9 @@ I want to introduce myself about my skills and services.
 Here are my skills:
 ♛ Web Technologies
    ✮ Backend - PHP(Laravel, CI, Yii, Zend), ASP.NET(MVC, Core), Python(Django, Flask), Node.js(Express)
+   
    ✮ Frontend - HTML5, CSS3/SCSS, Bootstrap, jQuery, Vue.js, React.js, Angular.js
+   
 ♛ Mobile Technologies
    ✮ Android - Java
    ✮ iOS - Swift, Object C
